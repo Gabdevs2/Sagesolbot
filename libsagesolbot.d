@@ -1,0 +1,1 @@
+C:\Users\Administrador\Desktop\e\target\release\libsagesolbot.rlib: C:\Users\Administrador\Desktop\e\build.rs C:\Users\Administrador\Desktop\e\src\activation.rs C:\Users\Administrador\Desktop\e\src\config.rs C:\Users\Administrador\Desktop\e\src\lib.rs C:\Users\Administrador\Desktop\e\src\lock_system.rs
