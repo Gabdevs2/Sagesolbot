@@ -26,7 +26,6 @@ sagesolbot.exe
 
 Main executable, developed in Rust.
 
-*.d
 , 
 *.rlib
 , 
@@ -117,7 +116,6 @@ sagesolbot.exe
 
 Ejecutable principal de la aplicación, desarrollado en Rust.
 
-*.d
 , 
 *.rlib
 , 
